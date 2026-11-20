@@ -19,5 +19,5 @@ Kami membantu pelaku usaha—khususnya sektor **Food & Beverage (F&B)**—mengub
 ---
 
 ### Daftar Portofolio Proyek
-1. **[Audit Profitabilitas & Optimasi Margin — Nusantara Rasa](https://github.com/metrik-database-nusantara/nusantara-rasa-profitability-audit)**  
+1. **[Audit Profitabilitas & Optimasi Margin — Nusantara Rasa](https://github.com/metrikdatabasenusantara/NusantaraRasaAnalysis)**  
    *Audit 300.000 transaksi POS & rantai pasok (5 cabang) yang menghasilkan proyeksi tambahan laba bersih +Rp 1,23 Miliar/tahun (+13,01%).*
